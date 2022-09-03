@@ -37,3 +37,6 @@ DPI / Resolution
 Without compromise the Quality
 
 False Positives
+
+https://www.techgig.com/hackathon/automate-cheque-processing
+Sample PPT : https://www.techgig.com/files/contest_upload_files/BOB_Sample_PPt_Template_(1).pptx
